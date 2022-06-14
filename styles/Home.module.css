@@ -1,6 +1,6 @@
 .main {
   height: 400px;
-  width: 400px;
+  width: 100%;
   flex:1;
   border: none;
   background-color: transparent;
